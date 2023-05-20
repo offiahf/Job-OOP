@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #c4c4c3;
+}
+
+.container{
+    line-height: 1.8rem;
+}
+
+.job_posting{
+    padding: 40px 20px;
+}
+
+h1{
+    margin-top: 30px;
+    margin-bottom: 8px;
+    font-size: 40px;
+}
+
+p{
+    font-size: 18px;
+}
+
+.title{
+    margin-top: 20px 0;
+    text-align: center;
+}
